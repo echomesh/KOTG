@@ -1,8 +1,9 @@
 # KOTG
-King of the Graph (KOTG)
 
-"Follow the Leader of the Graph"
+**King of the Graph (KOTG)**
 
-We never left, we just watched what you built with half the code.
+_"Follow the Leader of the Graph"_
 
-Sub-Zero Productions 
+We never left — we just watched what you built with half the code.
+
+**Sub-Zero Productions**
